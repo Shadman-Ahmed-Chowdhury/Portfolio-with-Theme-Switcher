@@ -231,6 +231,7 @@ h6 {
 
 #preview {
 	width: 300px; 
+
 	border: 1.5px solid #17a2b8; 
 	background-color: var(--previewBg); 
 	padding: 15px;
@@ -409,4 +410,25 @@ h6 {
 		justify-content: center;
 	}
 }
+
+
+
+
+@media screen and (max-width: 410px) {
+	#preview {
+		width: 250px;
+	}
+}
+
+@media screen and (max-width: 340px) {
+	#preview {
+		width: 220px;
+	}
+}
+@media screen and (max-width: 300px) {
+	#preview {
+		width: 200px;
+	}
+}
+
 
