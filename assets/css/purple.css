@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&family=Russo+One&display=swap');
+
+@import 'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'; 
+:root {
+	--mainColor: #45344e;
+	--secondaryColor: #382a3f;
+
+	--borderColor: #1d1520; 
+
+	--mainText: #fff;	
+	--secondaryText: #eeeeee;
+
+	--themeDotBorder: #fff;
+
+	--previewBg: rgb(29, 21, 32, 0.8);
+	--previewShadow: #2b202f;
+
+	--buttonColor: #8534a3; 
+}
